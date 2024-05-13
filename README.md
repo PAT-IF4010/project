@@ -21,7 +21,7 @@ Project ini bertujuan untuk memperkenalkan mahasiswa pada konsep pengembangan ap
 - Laragon/xampp
 - Hosting
 
-### 1. **Rancangan Aplikasi**
+### 2. **Rancangan Aplikasi**
 
 - Buatlah desain sederhana aplikasi yang akan dibangun. Misalnya, aplikasi _to-do list_ yang memungkinkan pengguna untuk menambah, mengedit, dan menghapus daftar tugas.
 - Tentukan komponen-komponen aplikasi yang akan terdistribusi, misalnya _server backend_, _antarmuka pengguna_, dan _database._
